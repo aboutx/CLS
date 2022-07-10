@@ -1,0 +1,1 @@
+ python3 demo_coco_gcn.py data/coco --image-size 224 --batch-size 120 --lr 0.00004 --epochs 100 --os '0,1' --cos_l 1 --workers 4 --missing 0.75 --t_pos 0.01 --t_neg 0.1
